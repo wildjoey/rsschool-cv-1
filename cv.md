@@ -26,7 +26,10 @@ public class LifeconnectAnalyzerConfigJMS {
 ```
 
 ### Work experience
+Several years as a developer of embedded software and digital devices, several years as a Java backend developer
 
 ### Education
+Dubna State University
 
 ### English
+Upper-Intermediate

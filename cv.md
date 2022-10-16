@@ -9,7 +9,7 @@ I work as a backend developer and want to improve my frontend knowledge to inter
 ### Skills
 Now it is Java, but before that I had quite a lot of experience in C/C++ embedded development
 
-### Code samples
+### Code examples
 ```Java
 @Configuration
 public class LifeconnectAnalyzerConfigJMS {

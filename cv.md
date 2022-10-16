@@ -22,15 +22,6 @@ public class LifeconnectAnalyzerConfigJMS {
         converter.setTypeIdPropertyName("_class_");
         return converter;
     }
-    
-    @Bean
-    public JmsListenerContainerFactory<?> jmsFactory(ConnectionFactory connectionFactory,
-            DefaultJmsListenerContainerFactoryConfigurer configurer){
-        DefaultJmsListenerContainerFactory factory = 
-                new DefaultJmsListenerContainerFactory();
-        configurer.configure(factory, connectionFactory);
-        return factory;
-    }
 }
 
 ```

@@ -1,0 +1,17 @@
+body{
+    max-width: 1024px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
+
+ul{
+    max-width:300px;
+    margin-top: 0px;
+    margin-bottom: 0px;	
+    display:inline-block;
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
